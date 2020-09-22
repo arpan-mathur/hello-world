@@ -1,2 +1,2 @@
 # hello-world
-My first git repository
+I will be uploading my programs here
